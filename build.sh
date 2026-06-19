@@ -1,0 +1,1 @@
+python3 src/main.py "/https://github.com/StevenPJ0001/static-site-generator/"
